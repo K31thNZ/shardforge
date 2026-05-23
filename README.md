@@ -1,2 +1,3 @@
-# shardforge
-Premium Fractal Investment Platform with tokenized physical assets, 3D visuals, and AI insights
+ShardForge - Fractal Investment Platform
+
+Modern Vite + React app with 3D shards, WebGL particles, AI Insights, and more.
